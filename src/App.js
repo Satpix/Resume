@@ -23,7 +23,7 @@ const App = () => {
     <ThemeProvider theme={theme}>
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<HomePage />} exact />
+          <Route path="/Resume" element={<HomePage />} exact />
         </Routes>
       </BrowserRouter>
     </ThemeProvider>
