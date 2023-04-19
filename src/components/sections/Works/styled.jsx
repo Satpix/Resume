@@ -11,7 +11,7 @@ export const CardContainer = styled(Card)`
 
 export const Image = styled.div`
   background: ${({ theme }) => theme.mainGradient};
-  background-image: url(/images/incheq.png);
+  background-image: url(images/incheq.png);
   border: 0px;
   background-position: center;
   background-size: cover;

@@ -42,7 +42,7 @@ export const LinkContainer = styled(Link).attrs(({ id, name }) => ({
 `;
 
 export const Logo = styled.img`
-  background-image: url(/images/logo.png);
+  background-image: url(images/logo.png);
   border-radius: 150px;
   background-position: center;
   background-size: cover;

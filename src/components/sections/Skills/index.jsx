@@ -8,19 +8,19 @@ const skillsData = [
   //   name: "Languages",
   // },
   {
-    image: "url(/images/javascript.png)",
+    image: "url(images/javascript.png)",
     name: "JavaScript",
   },
   {
-    image: "url(/images/typescript.png)",
+    image: "url(images/typescript.png)",
     name: "TypeScript",
   },
   {
-    image: "url(/images/html5.png)",
+    image: "url(images/html5.png)",
     name: "HTML5",
   },
   {
-    image: "url(/images/css3.png)",
+    image: "url(images/css3.png)",
     name: "CSS3",
   },
   // {
@@ -28,15 +28,15 @@ const skillsData = [
   //   name: "Frameworks",
   // },
   {
-    image: "url(/images/react.png)",
+    image: "url(images/react.png)",
     name: "React",
   },
   {
-    image: "url(/images/next.png)",
+    image: "url(images/next.png)",
     name: "Next",
   },
   {
-    image: "url(/images/native.png)",
+    image: "url(images/native.png)",
     name: "React Native",
   },
   // {
@@ -44,31 +44,31 @@ const skillsData = [
   //   name: "Web Technologies",
   // },
   {
-    image: "url(/images/redux.png)",
+    image: "url(images/redux.png)",
     name: "Redux",
   },
   {
-    image: "url(/images/mui.png)",
+    image: "url(images/mui.png)",
     name: "MUi",
   },
   {
-    image: "url(/images/styled.png)",
+    image: "url(images/styled.png)",
     name: "Styled Components",
   },
   {
-    image: "url(/images/figma.png)",
+    image: "url(images/figma.png)",
     name: "Figma",
   },
   {
-    image: "url(/images/responsive.png)",
+    image: "url(images/responsive.png)",
     name: "Responsive Websites",
   },
   {
-    image: "url(/images/git.png)",
+    image: "url(images/git.png)",
     name: "Git",
   },
   {
-    image: "url(/images/vscode.png)",
+    image: "url(images/vscode.png)",
     name: "VS Code",
   },
 ];

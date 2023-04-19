@@ -2,7 +2,7 @@ import { Grid } from "@mui/material";
 import styled from "styled-components";
 
 export const Logo = styled.img`
-  background-image: url(/images/logo.png);
+  background-image: url(images/logo.png);
   border-radius: 150px;
   background-position: center;
   background-size: cover;
