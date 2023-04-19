@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f131357.css",
-    "main.js": "/static/js/main.36481e96.js",
-    "static/media/RobotoLight.woff": "/static/media/RobotoLight.275b86cf44851add9ef1.woff",
-    "static/media/RobotoLight.woff2": "/static/media/RobotoLight.4c367df92ab4012e30a2.woff2",
-    "static/media/HelveticaThin.woff": "/static/media/HelveticaThin.5fcc0f8e85b35000bfd8.woff",
-    "static/media/HelveticaNeueThin.woff": "/static/media/HelveticaNeueThin.520a87ff8e06f6c9be53.woff",
-    "index.html": "/index.html",
-    "main.4f131357.css.map": "/static/css/main.4f131357.css.map",
-    "main.36481e96.js.map": "/static/js/main.36481e96.js.map"
+    "main.css": "/my-react-portfolio-2023/static/css/main.2347046d.css",
+    "main.js": "/my-react-portfolio-2023/static/js/main.7c5c5ec2.js",
+    "static/media/RobotoLight.woff": "/my-react-portfolio-2023/static/media/RobotoLight.275b86cf44851add9ef1.woff",
+    "static/media/RobotoLight.woff2": "/my-react-portfolio-2023/static/media/RobotoLight.4c367df92ab4012e30a2.woff2",
+    "static/media/HelveticaThin.woff": "/my-react-portfolio-2023/static/media/HelveticaThin.5fcc0f8e85b35000bfd8.woff",
+    "static/media/HelveticaNeueThin.woff": "/my-react-portfolio-2023/static/media/HelveticaNeueThin.520a87ff8e06f6c9be53.woff",
+    "index.html": "/my-react-portfolio-2023/index.html",
+    "main.2347046d.css.map": "/my-react-portfolio-2023/static/css/main.2347046d.css.map",
+    "main.7c5c5ec2.js.map": "/my-react-portfolio-2023/static/js/main.7c5c5ec2.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f131357.css",
-    "static/js/main.36481e96.js"
+    "static/css/main.2347046d.css",
+    "static/js/main.7c5c5ec2.js"
   ]
 }
