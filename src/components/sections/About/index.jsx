@@ -4,12 +4,11 @@ import { Grid } from "@mui/material";
 
 const About = () => {
   return (
-    <Grid container direction="row">
+    <S.MainContainer>
       <S.Logo />
       <Grid direction="column">
-        <S.SubTitle>Hello,</S.SubTitle>
         <S.MainText>
-          I am Kamash Akhmed, Frontend developer with 2 years of commercial experience building web applications. 
+          Dynamic and purposeful frontend developer with 2+ years of commercial experience building web applications. 
           I'm open to any type of employment - whether it's in-office or remote.
         </S.MainText>
         <Grid container direction="raw">
@@ -35,7 +34,7 @@ const About = () => {
           </Grid>
         </Grid>
       </Grid>
-    </Grid>
+    </S.MainContainer>
   );
 };
 

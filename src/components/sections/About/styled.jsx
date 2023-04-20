@@ -1,3 +1,4 @@
+import { Grid } from "@mui/material";
 import styled from "styled-components";
 
 export const Logo = styled.img`
@@ -6,9 +7,19 @@ export const Logo = styled.img`
   background-position: center;
   background-size: cover;
   box-shadow: 3px 3px 10px #403b4a;
+  min-width: 120px;
   width: 120px;
   height: 120px;
-  margin: 0px 40px 10px 0px;
+  margin: 30px 40px 10px 0px;
+`;
+
+export const MainContainer = styled.div`
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  @media screen and (max-width: calc(${({ theme }) => theme.mobileWidth} + 300px)) {
+    flex-wrap: wrap;
+  }
 `;
 
 export const SubTitle = styled.h1``;

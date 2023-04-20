@@ -11,7 +11,7 @@ const data = [
       <S.Text>
         Responsibilites:
         <br />
-        - Development of React components
+        - Developed React components
         <br />
         - Designed and implemented new features of the applications
         <br />
